@@ -11,10 +11,10 @@ z2
 cModel Technology
 Z0 dC:/Users/evanc/OneDrive/Documents/GitHub/DLD/dldspring2023/Lab0/SV
 T_opt
-!s110 1706135723
-V2zVcdHJ@>_k]k@H8m;Lda3
+!s110 1706135812
+VT:k^F0=KH;F723I@S23YG2
 04 2 4 work tb fast 0
-=1-7404f1eb7e68-65b190ab-35-2f34
+=1-7404f1eb7e68-65b19104-173-363c
 !s124 OEM100
 o-quiet -auto_acc_if_foreign -work work +acc
 Z1 tCvgOpt 0
@@ -22,7 +22,7 @@ n@_opt
 OL;O;2021.3;73
 vsilly
 Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
-Z3 !s110 1706135722
+Z3 !s110 1706135811
 !i10b 1
 !s100 DK;GNYPSb@:UQBcUD?1CM0
 IcdfWCk[=DaOFMHNK6S`z<1
@@ -38,7 +38,7 @@ Z5 OL;L;2021.3;73
 r1
 !s85 0
 31
-Z6 !s108 1706135722.000000
+Z6 !s108 1706135811.000000
 Z7 !s107 silly_tb.sv|silly.sv|
 Z8 !s90 -reportprogress|300|silly.sv|silly_tb.sv|
 !i113 0
