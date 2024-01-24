@@ -13,17 +13,17 @@
 # //
 # do silly.do
 # Model Technology ModelSim SE-64 vlog 2021.3 Compiler 2021.07 Jul 13 2021
-# Start time: 16:20:47 on Jan 24,2024
+# Start time: 16:32:30 on Jan 24,2024
 # vlog -reportprogress 300 silly.sv silly_tb.sv 
 # -- Compiling module silly
 # -- Compiling module tb
 # 
 # Top level modules:
 # 	tb
-# End time: 16:20:47 on Jan 24,2024, Elapsed time: 0:00:00
+# End time: 16:32:30 on Jan 24,2024, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vsim -voptargs="+acc" work.tb 
-# Start time: 16:20:47 on Jan 24,2024
+# Start time: 16:32:30 on Jan 24,2024
 # ** Note: (vsim-3812) Design is being optimized...
 # Loading sv_std.std
 # Loading work.tb(fast)
@@ -33,8 +33,5 @@
 # ** Warning: (vsim-3722) silly_tb.sv(11): [TFMPC] - Missing connection for port 'sum'.
 # .main_pane.list.interior.cs.body
 # .main_pane.wave.interior.cs.body.pw.wf
-# Causality operation skipped due to absence of debug database file
-add wave -position insertpoint \
-sim:/tb/c 
-# End time: 16:32:03 on Jan 24,2024, Elapsed time: 0:11:16
+# End time: 16:34:56 on Jan 24,2024, Elapsed time: 0:02:26
 # Errors: 0, Warnings: 2
